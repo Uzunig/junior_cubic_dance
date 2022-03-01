@@ -242,13 +242,6 @@ void Scene::Update(float dt) {
         cylinders[0].angle += cylinders[0].rVelocity * dt;
         cylinders[0].UpdateModelMatrix();
     }
-   
-/* 
-    if (currentTime > 25) {
-        camera.ProcessKeyboard(RIGHT, dt);
-        camera.ProcessMouseMovement(-2.0f, 0.0f, false);
-    }
-*/
 }
 
 void Scene::ProcessInput(GLFWwindow* window, float deltaTime) {
