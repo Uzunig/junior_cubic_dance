@@ -203,7 +203,7 @@ void Scene::Update(float dt) {
             }
         }
     }
-  
+    //Earth show  
     if (spheres[0].deformation == 1.0f && spheres[0].visible) { 
         spheres[0].deformationVector = 0;
         spheres[0].visible = false;
