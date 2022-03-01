@@ -131,6 +131,7 @@ void Scene::Update(float dt) {
         }
     }
 
+    //models show
     for (unsigned i = 35; i <= 38; ++i) {
         if (sceneObjects[i].visible){
             sceneObjects[i].position += sceneObjects[i].velocity * dt;
