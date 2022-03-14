@@ -10,4 +10,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_refl  ..\Щит\кружка\texture\Material.001_Metallic.png
+map_Kd textures/albedo.png
+map_Bump textures/normal.png
+map_Pm textures/metallic.png
+map_Pr textures/roughness.png
+map_AO textures/ao.png
