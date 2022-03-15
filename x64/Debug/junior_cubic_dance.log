@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Projects\junior_cubic_dance\sphere.h(11,20): warning C4305: инициализация: усечение из "double" в "const float"
+D:\Projects\junior_cubic_dance\cylinder.h(11,20): warning C4305: инициализация: усечение из "double" в "const float"
+D:\Projects\junior_cubic_dance\main.cpp(84,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Projects\junior_cubic_dance\main.cpp(125,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Projects\junior_cubic_dance\main.cpp(126,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Projects\junior_cubic_dance\main.cpp(130,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Projects\junior_cubic_dance\main.cpp(131,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Projects\junior_cubic_dance\main.cpp(133,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Projects\junior_cubic_dance\main.cpp(134,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  junior_cubic_dance.vcxproj -> D:\Projects\junior_cubic_dance\x64\Debug\junior_cubic_dance.exe

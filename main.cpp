@@ -22,7 +22,7 @@ const unsigned int SCREEN_WIDTH = 800;
 const unsigned int SCREEN_HEIGHT = 800;
 
 // Camera
-Camera camera(glm::vec3(0.0f, 2.0f, 25.0f));
+Camera camera(glm::vec3(0.0f, 5.0f, 25.0f));
 float lastX = SCREEN_WIDTH / 2.0f;
 float lastY = SCREEN_HEIGHT / 2.0f;
 
@@ -39,6 +39,8 @@ int main() {
     glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
     glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 3);
     glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
+
+    glfwWindowHint(GLFW_SAMPLES, 4);
     
     // Share the code when using macOS
     /*
@@ -70,6 +72,8 @@ int main() {
 
     glEnable(GL_DEPTH_TEST);
     glDepthFunc(GL_LEQUAL); // задаем функцию сравнения глубины типа "меньше или равно" для трюка со скайбоксом
+
+    glEnable(GL_MULTISAMPLE);
     
     Scene scene(SCREEN_WIDTH, SCREEN_HEIGHT, camera);
     scene.Init(window);
