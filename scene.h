@@ -32,7 +32,7 @@ public:
     unsigned int width, height;
     Camera& camera;
     float currentTime; 
-    std::string background_path = "hdr/studio_small_08_8k.hdr";
+    std::string background_path = "hdr/studio_small_08_4k.hdr";
     
     std::vector<ObjModel> objModels;
     Cylinder cylinder;
