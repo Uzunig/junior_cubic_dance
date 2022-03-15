@@ -13,7 +13,7 @@ ObjModel     models/junk/junk.obj
 ObjModel     models/dashboard.obj
  
 
-                         Number        Position          Angle          Scale         Velocity         rVelocity       Visible
+                         Number        Position          Angle          Scale        Velocity         rVelocity       Visible
                          
 Винт                        
 SceneObject   OBJModel     5         0.0 -2.0  0.0    0.0  0.0 0.0    3.0 3.0 3.0   0.0 0.0 0.0      0.0 1.0 0.0          1
