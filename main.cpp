@@ -59,10 +59,10 @@ int main() {
 
     glfwMakeContextCurrent(window);
     glfwSetFramebufferSizeCallback(window, framebuffer_size_callback);
-    glfwSetCursorPosCallback(window, mouse_callback);
+    //glfwSetCursorPosCallback(window, mouse_callback);
 
     // tell GLFW to captur our mouse
-    glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
+    //glfwSetInputMode(window, GLFW_CURSOR, GLFW_CURSOR_DISABLED);
 
     // glad: oad all OpenGL function pointers
     if (!gladLoadGLLoader((GLADloadproc)glfwGetProcAddress)) {
@@ -86,7 +86,7 @@ int main() {
         lastFrame = scene.currentTime;
 
         // Обработка ввода
-        scene.ProcessInput(window, deltaTime);
+        //scene.ProcessInput(window, deltaTime);
 
         // Рендеринг
         glClearColor(0.2f, 0.3f, 0.3f, 1.0f);

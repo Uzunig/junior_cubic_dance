@@ -14,7 +14,7 @@ Scene::Scene(unsigned int width, unsigned int height, Camera& camera)
     LoadSceneFromFile("level1.lv");
     for (unsigned int i = 0; i <= 35; ++i) {
         sceneObjects.push_back(SceneObject(objModels[0], 
-                     glm::vec3(5.0f * cos(10.0f * i / 180.0f * 3.14159f), 0.0f, 5.0f * sin(10.0f * i / 180.0f * 3.14159f)), 
+                     glm::vec3(7.0f * cos(10.0f * i / 180.0f * 3.14159f), 0.0f, 7.0f * sin(10.0f * i / 180.0f * 3.14159f)), 
                      glm::vec3(0.0f, -10.0f * i, -10.0f * i), 
                      glm::vec3(0.5f, 0.5f, 0.5f), 
                      glm::vec3(0.0f), glm::vec3(0.0f, 1.0f, -1.0f), 0));

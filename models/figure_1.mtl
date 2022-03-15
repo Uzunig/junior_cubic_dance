@@ -10,8 +10,8 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 2
-map_Kd textures/plastic/albedo.png
-map_Bump textures/plastic/normal.png
-map_Pm textures/plastic/metallic.png
-map_Pr textures/plastic/roughness.png
-map_AO textures/plastic/ao.png
+map_Kd textures/granite/albedo.png
+map_Bump textures/granite/normal.png
+map_Pm textures/granite/metallic.png
+map_Pr textures/granite/roughness.png
+map_AO textures/granite/ao.png
