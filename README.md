@@ -4,7 +4,7 @@
 <p>The models for my small projects are kindly supplied by my eldest son Dmitry (a great fan of 3D modeling).</p>
 <p>I hope soon I will improve my skills and my projects will get better, they will have shadows, skeletal animation and many other effects.</p>
 <p>I would be very glad to meet and communicate with professionals in this area. I look forward to receiving feedback and guidance.</p>
-<h3><strong>Contact me:</strong></h3>
+<h3><strong>My contacts:</strong></h3>
 <p><a href="mailto:igordmitriev@gmail.com">igordmitriev.uzun@gmail.com</a></p>
 <p><a href="https://www.linkedin.com/in/igor-dmitriev-uzun-27845b59/" target="_blank">LinkedIn</a></p>
 <p><a href="https://github.com/Uzunig" target="_blank">GitHub</a></p>
