@@ -6,5 +6,5 @@
 <p>I would be very glad to meet and communicate with professionals in this area. I look forward to receiving feedback and guidance.</p>
 <h3><strong>My contacts:</strong></h3>
 <p><a href="mailto:igordmitriev@gmail.com">igordmitriev.uzun@gmail.com</a></p>
-<p><a href="https://www.linkedin.com/in/igor-dmitriev-uzun-27845b59/">LinkedIn</a></p>
+<p><a href="https://www.linkedin.com/in/igor-dmitriev-uzun-27845b59">LinkedIn</a></p>
 <p><a href="https://github.com/Uzunig">GitHub</a></p>
