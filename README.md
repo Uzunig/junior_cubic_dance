@@ -8,3 +8,5 @@
 <p><a href="mailto:igordmitriev@gmail.com">igordmitriev.uzun@gmail.com</a></p>
 <p><a href="https://www.linkedin.com/in/igor-uzun">LinkedIn</a></p>
 <p><a href="https://www.github.com/Uzunig">GitHub</a></p>
+<p><a href="https://www.youtube.com/channel/UCBMr1sn9mIRZar-9AbjsNZQ">YouTube</a></p>
+
